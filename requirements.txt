@@ -1,0 +1,5 @@
+r-base
+r-tidyverse
+r-matrix
+r-data.table
+r-future
